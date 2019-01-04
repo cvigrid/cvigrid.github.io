@@ -16,6 +16,6 @@ Our goal is .
 
 ---
 
-The project enables ...
+The project enables ....
 
 
