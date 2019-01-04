@@ -1,7 +1,7 @@
 # Motto
 
 ---
-Our motto is ...
+Our motto is to ...
 
 <br>
 
