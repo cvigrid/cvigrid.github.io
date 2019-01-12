@@ -17,8 +17,7 @@
 | ------ | ------ | ------ | ------ | ------ | 
 | Choroidal Vascularity Index in Central Serous Chorioretinopathy (CSC) |Agrawal, R. | Retina  |2016 |Request|
 | Choroidal vascularity index as a measure of vascular status of the choroid: Measurements in healthy eyes from a population-based study | Agrawal, R. | Sci Rep | 2016 | Request | 
-| Choroidal Vascularity Index in Vogt-Koyanagi-Harada Disease: An EDI-OCT Derived Tool for Monitoring Disease Progression | Agrawal, R.
- | Transl Vis Sci Technol | 2016 | Request | 
+| Choroidal Vascularity Index in Vogt-Koyanagi-Harada Disease: An EDI-OCT Derived Tool for Monitoring Disease Progression | Agrawal, R.| Transl Vis Sci Technol | 2016 | Request | 
 | Choroidal Vascularity Index (CVI)--A Novel Optical Coherence Tomography Parameter for Monitoring Patients with Panuveitis? | Agrawal, R. | Plos One | 2016 | Request | 
 | Choroidal Structural Changes in Myopic Choroidal Neovascularization After Treatment With Antivascular Endothelial Growth Factor Over 1 Year | Ng, W. Y. | Invest Ophthalmo Vis Sci | 2016 | Request | 
 | Choroidal vascularity index - a novel optical coherence tomography parameter for disease monitoring in diabetes mellitus? | Tan, K. A. | Acta Ophthalmol | 2016 | Request | 
@@ -41,8 +40,7 @@
 | Choroidal vascularity index changes after vitreomacular surgery | Rizzo, S. | Acta Ophthalmol | 2018 | Request | 
 | Choroidal Vascularity Index in Retinitis Pigmentosa: An OCT Study. | Tan, R. | Ophthalmic Surg Lasers Imaging Retina | 2018 | Request | 
 | Automated quantification of Haller's layer in choroid using swept-source optical coherence tomography | Uppugunduri, S. R. | Plos One | 2018 | Request | 
-| Quantitative shadow compensated optical coherence tomography of choroidal vasculature. | Vupparaboina, K. K.
- | Sci Rep | 2018 | Request | 
+| Quantitative shadow compensated optical coherence tomography of choroidal vasculature. | Vupparaboina, K. K.| Sci Rep | 2018 | Request | 
 | Comparison of Choroidal Vascularity Markers on Optical Coherence Tomography Using Two-Image Binarization Techniques. | Wei, X.| Invest Ophthalmo Vis Sci | 2018 | Request | 
 | Choroidal structural analysis and vascularity index in retinal dystrophies. | Wei, X. | Acta Ophthalmol | 2018 | Request | 
 | Peripapillary Choroidal Vascularity Index in Glaucoma—A Comparison Between Spectral-Domain OCT and OCT Angiography | IOVS | Park, J, W. | 2018 | Request | 
