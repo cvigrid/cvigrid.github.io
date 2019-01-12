@@ -13,8 +13,8 @@
 
 ---
 
-| Name of manuscript | Journal |Date Published|Request Full Article|
-| ------ | ------ | ------ | ------ | 
-| xxx | xx |xx |Request|
+| Name of manuscript | First author | Journal |Year Published|Request Full Article|
+| ------ | ------ | ------ | ------ | ------ | 
+| Choroidal Vascularity Index in Central Serous Chorioretinopathy (CSC) |Agrawal Rupesh | Retina  |2016 |Request|
 
 
