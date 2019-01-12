@@ -42,4 +42,4 @@
 | Quantitative shadow compensated optical coherence tomography of choroidal vasculature. | Vupparaboina, K. K.| Sci Rep | 2018 | Request | 
 | Comparison of Choroidal Vascularity Markers on Optical Coherence Tomography Using Two-Image Binarization Techniques. | Wei, X.| Invest Ophthalmo Vis Sci | 2018 | Request | 
 | Choroidal structural analysis and vascularity index in retinal dystrophies. | Wei, X. | Acta Ophthalmol | 2018 | Request | 
-| Peripapillary Choroidal Vascularity Index in Glaucoma—A Comparison Between Spectral-Domain OCT and OCT Angiography | IOVS | Park, J, W. | 2018 | Request | 
+| Peripapillary Choroidal Vascularity Index in Glaucoma—A Comparison Between Spectral-Domain OCT and OCT Angiography | Park, J, W. | IOVS | 2018 | Request | 
