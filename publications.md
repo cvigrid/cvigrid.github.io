@@ -4,7 +4,7 @@
 
 | Name of manuscript | Journal |Date Published|Request Full Article|
 | ------ | ------ | ------ | ------ | 
-|Exploring choroidal angioarchitecture in health and disease using choroidal vascularity index|Survery of Ophthalmology|Under review|Request|
+
 
 <br>
 
