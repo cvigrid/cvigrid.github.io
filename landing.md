@@ -1,21 +1,10 @@
-# Motto
+# Latest Updates
 
 ---
-Our motto is to ...
+* Update A
+* Update B
 
 <br>
 
-# Goal
-
----
-Our goal is .
-
-<br>
-
-# Overview
-
----
-
-The project enables ....
-
-
+# Welcome New Members
+* xxx
