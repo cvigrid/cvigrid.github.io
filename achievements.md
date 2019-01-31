@@ -1,14 +1,3 @@
-# Poster / Oral Presentation
-
----
-
-| Name of conference | Date (DD/MM/YY) |Name of Project |Presenter | Country | 
-| ------ | ------ | ------ | ------ | ------ | 
-| 6th International congress on OCTA & advances in OCT. | 15/12/18 |Imaging changes in choroid as outcomes of uveitis clinical trials |Rupesh Agrawal (TTSH) |Singapore |
-| Department Of Opthalmology Research Symposium 2019, NUH | 12/01/19 | Comparing choroidal structural changes in central serous chorioretinopathy and smoking, a choroidal vascularity index study |Ding Jianbin (LKCSoM, TTSH)  | Singapore | 
-
-<br>
-
 # Grant
 
 ---
