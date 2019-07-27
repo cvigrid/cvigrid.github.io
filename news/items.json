@@ -2,7 +2,7 @@
   {
     "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/Dr-Agrawal-screening-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
     "url":"http://virajfoundation.org/",
-    "title":"A telemedicine system set up by Dr Agrawal in Hemalkasa, Gadchiroli for acquiring retinal images and transmitting it through the cloud to higher centre for remote diagnosis and management"
+    "title":"Dr Agrawal screening the patients in rural area in India"
   },
   {
     "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/Dr-Agrawal-with-Project-Aasha-Team-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
@@ -12,7 +12,21 @@
   {
     "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/Dr-Agrawal-with-visually-impaired-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
     "url":"http://virajfoundation.org/",
+    "title":"Dr Agrawal with visually impaired children in a blind school in Gorkha, Nepal"
+  },
+  {
+    "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/Dr-Agrawal-performing-cataract-surgery-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
+    "url":"http://virajfoundation.org/",
     "title":"Dr Agrawal performing cataract surgery in Vavuniya, Sri Lanka"
-  }
-
+  },
+  {
+    "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/Dr-Agrawal-reviewing-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
+    "url":"http://virajfoundation.org/",
+    "title":"Dr Agrawal reviewing the post operative patients and teaching the staff about post op care for cataract surgery"  
+  },
+  {
+    "image":"http://virajfoundation.org/wp-content/uploads/elementor/thumbs/A-telemedicine-system-nxp7acduec3iq4dpfmnvwkmcl3coteikfptyrhpm1e.jpg",
+    "url":"http://virajfoundation.org/",
+    "title":"A telemedicine system set up by Dr Agrawal in Hemalkasa, Gadchiroli for acquiring retinal images and transmitting it through the cloud to higher centre for remote diagnosis and management"
+  },
 ]
