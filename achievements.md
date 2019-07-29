@@ -1,22 +1,14 @@
-# Grant
+# Grants awarded
 
 ---
-
-Following Grants have been awarded towards the project
 
 
 | Name of grant | Date Obtained |Recipient|Country|
 | ------ | ------ | ------ | ------ | 
-| xxx | xx |xx |xxx|
+|Ng Teng Fong Healthcare Innovation Program Grant|01/01/2019|A/Prof Rupesh Agrawal|Singapore|
 
 
 <br>
 
-# Awards
 
----
-
-| Name of award | Date Obtained |Recipient|Country|
-| ------ | ------ | ------ | ------ | 
-| xxx | xx |xx |xxx|
 
