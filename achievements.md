@@ -1,9 +1,9 @@
-# Grants awarded
+# Awards obtained
 
 ---
 
 
-| Name of grant | Project | Date Obtained |Recipient|Country|
+| Name of Award | Project | Date Obtained |Recipient|Country|
 | ------ | ------ | ------ | ------ | ------ | 
 |Ng Teng Fong Healthcare Innovation Program Grant|VHI|01/02/2019|A/Prof Rupesh Agrawal|Singapore|
 |Ng Teng Fong Healthcare Innovation Program Grant|CVI|01/01/2019|A/Prof Rupesh Agrawal|Singapore|
